@@ -1,0 +1,2 @@
+# SistemaGestionClinicaWinForms
+Valio la pena
